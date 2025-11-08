@@ -1,4 +1,4 @@
-# XAI MCQ Quiz System
+# XAI module Lecture Note MCQ Generator
 
 A modular Explainable AI (XAI) module for MCQ quiz systems with 3 layers: retrieval (TF-IDF), rule-based reasoning, and LLM explanation.
 
