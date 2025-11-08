@@ -1,5 +1,5 @@
 """
-Configuration file for XAI MCQ System
+Configuration file for XAI Lecture Note MCQ Generator
 
 How to Use:
 1. Copy this file and rename it to config.py
