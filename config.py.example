@@ -1,0 +1,18 @@
+"""
+Configuration file for XAI MCQ System
+
+How to Use:
+1. Copy this file and rename it to config.py
+2. Paste your API Key directly inside the quotes: DEEPSEEK_API_KEY = "your-key-here"
+3. Save the file
+4. Run python app_demo.py
+
+This will be saved permanently!
+"""
+
+# Paste your DeepSeek API Key here directly
+DEEPSEEK_API_KEY = ""
+
+# Example:
+# DEEPSEEK_API_KEY = "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+

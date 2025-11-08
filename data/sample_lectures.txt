@@ -1,0 +1,6 @@
+Week 3: TF-IDF (Term Frequency-Inverse Document Frequency) is a statistical measure used to evaluate how important a word is to a document in a collection or corpus. The importance increases proportionally to the number of times a word appears in the document but is offset by the frequency of the word in the corpus. This helps identify keywords that are distinctive to a particular document and are useful for information retrieval and text mining tasks.
+
+Week 5: Explainable AI (XAI) is an area of machine learning research that aims to make AI systems more transparent and understandable to humans. XAI techniques provide human-understandable reasons for model outputs, helping users understand why an AI system made a particular decision or prediction. This is crucial for building trust in AI systems, especially in high-stakes applications like healthcare, finance, and education.
+
+Week 7: Text mining, also known as text data mining, involves extracting useful information and knowledge from unstructured text data. Common techniques in text mining include tokenization (breaking text into words or phrases), stemming (reducing words to their root form), and vectorization methods like TF-IDF that convert text into numerical representations. These techniques enable computers to process and analyze large volumes of textual data efficiently.
+
