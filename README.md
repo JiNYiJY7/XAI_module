@@ -1,6 +1,6 @@
 # XAI module Lecture Note MCQ Generator
 
-A modular Explainable AI (XAI) module for MCQ quiz systems with 3 layers: retrieval (TF-IDF), rule-based reasoning, and LLM explanation.
+A modular Explainable AI (XAI) module for Lecture Note MCQ Generator with 3 layers: retrieval (TF-IDF), rule-based reasoning, and LLM explanation.
 
 ## Setup
 
